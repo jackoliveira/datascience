@@ -1,3 +1,3 @@
 # datascience
 
-- Repositório para aprimorar o conhecimento de técnicas de algoritmos, análise de datasets e modelos.
+- Repositório para aprimorar o conhecimento de técnicas de análise de datasets, modelos e a criação de algoritmos.
